@@ -5,15 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>WindStatsOpenMeteo</title>
     <base href="/" />
-    <link href="app.css" rel="stylesheet" />
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="lib/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="app.css" />
+    <link rel="stylesheet" href="WindStatsOpenMeteo.styles.css" />
+    <link rel="icon" type="image/png" href="favicon.png" />
 </head>
 <body>
-    <div id="app">Loading...</div>
+    <div id="app">
+        <div class="d-flex justify-content-center align-items-center" style="height:100vh">
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        </div>
+    </div>
 
-    <!-- Blazor WebAssembly bootstrap -->
-    <script src="_framework/blazor.webassembly.js"></script>
+    <div id="blazor-error-ui" style="display:none">
+        An unhandled error has occurred.
+        <a href="." class="reload">Reload</a>
+        <span class="dismiss">&#x2716;</span>
+    </div>
 
-    <!-- Tu JS personalizado -->
+    <script src="lib/leaflet/dist/leaflet.js"></script>
     <script src="js/windApp.js"></script>
+    <script src="_framework/blazor.webassembly.js"></script>
 </body>
 </html>
