@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J4x7KReA3ek=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jorgito\\source\\repos\\WindStatsOpenMeteo\\WindStatsOpenMeteo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jorgito\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.6\\microsoft.aspnetcore.app.internal.assets.10.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
