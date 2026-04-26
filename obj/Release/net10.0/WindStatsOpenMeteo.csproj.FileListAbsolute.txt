@@ -83,7 +83,6 @@ C:\Users\Jorgito\source\repos\WindStatsOpenMeteo\obj\Release\net10.0\staticwebas
 C:\Users\Jorgito\source\repos\WindStatsOpenMeteo\obj\Release\net10.0\staticwebassets.development.json
 C:\Users\Jorgito\source\repos\WindStatsOpenMeteo\obj\Release\net10.0\staticwebassets.build.endpoints.json
 C:\Users\Jorgito\source\repos\WindStatsOpenMeteo\obj\Release\net10.0\swae.build.ex.cache
-C:\Users\Jorgito\source\repos\WindStatsOpenMeteo\obj\Release\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\Jorgito\source\repos\WindStatsOpenMeteo\obj\Release\net10.0\WindStatsOpenMeteo.dll
 C:\Users\Jorgito\source\repos\WindStatsOpenMeteo\obj\Release\net10.0\refint\WindStatsOpenMeteo.dll
 C:\Users\Jorgito\source\repos\WindStatsOpenMeteo\obj\Release\net10.0\WindStatsOpenMeteo.pdb
