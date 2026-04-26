@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WindStatsOpenMeteo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e50e66ccd8280c070e64d6b054af7b971cbfddf5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b09592e52bfb4a85abbf44fdd28fe5f0f71b17e")]
 [assembly: System.Reflection.AssemblyProductAttribute("WindStatsOpenMeteo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WindStatsOpenMeteo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
