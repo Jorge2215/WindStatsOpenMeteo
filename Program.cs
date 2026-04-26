@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using WindStatsOpenMeteo.Components;
 using WindStatsOpenMeteo.Services;
+//Comment by Jorgito
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 
