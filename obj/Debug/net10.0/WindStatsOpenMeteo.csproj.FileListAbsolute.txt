@@ -86,3 +86,6 @@ C:\Users\Jorgito\source\repos\WindStatsOpenMeteo\obj\Debug\net10.0\ref\WindStats
 C:\Users\Jorgito\source\repos\WindStatsOpenMeteo\obj\Debug\net10.0\compressed\iba2a2hyjb-{0}-4tnhjrhvg4-4tnhjrhvg4.gz
 C:\Users\Jorgito\source\repos\WindStatsOpenMeteo\obj\Debug\net10.0\compressed\h7kyp8kked-{0}-7888sfn8yc-7888sfn8yc.gz
 C:\Users\Jorgito\source\repos\WindStatsOpenMeteo\obj\Debug\net10.0\compressed\qsrgh0p3g3-{0}-v78t325kt9-v78t325kt9.gz
+C:\Users\Jorgito\source\repos\WindStatsOpenMeteo\obj\Debug\net10.0\WindStatsOpenMeteo.sourcelink.json
+C:\Users\Jorgito\source\repos\WindStatsOpenMeteo\obj\Debug\net10.0\compressed\io2f7bixbl-{0}-icgzd1zppp-icgzd1zppp.gz
+C:\Users\Jorgito\source\repos\WindStatsOpenMeteo\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

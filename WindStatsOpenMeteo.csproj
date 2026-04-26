@@ -7,4 +7,8 @@
     <BlazorDisableThrowNavigationException>true</BlazorDisableThrowNavigationException>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include=".github\workflows\azure-static-web-apps.yml" />
+  </ItemGroup>
+
 </Project>
