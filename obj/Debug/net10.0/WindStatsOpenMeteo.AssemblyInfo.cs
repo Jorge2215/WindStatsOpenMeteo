@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WindStatsOpenMeteo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90262451e57669def4b234abdeaa651b4825447c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0638b4c1897a577cb81158a949e34c5429097b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("WindStatsOpenMeteo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WindStatsOpenMeteo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
